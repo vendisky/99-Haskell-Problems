@@ -1,2 +1,2 @@
 # 99-Haskell-Problems
-Solution to https://wiki.haskell.org/99_questions
+Solution to the [problem set](https://wiki.haskell.org/99_questions)
